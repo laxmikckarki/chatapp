@@ -2,6 +2,7 @@ import React from 'react';
 import { ChatEngine } from 'react-chat-engine';
 import ChatFeed from './components/ChatFeed.js';
 import LoginForm from './components/LoginForm.js';
+import './App.css';
 
 const chatAppProps = {
   userName: 'yourUserName',
